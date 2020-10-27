@@ -2,7 +2,7 @@ import React from 'react'
 import "./Home.css"
 import {Avatar, IconButton} from '@material-ui/core';
 import AppIcon from "@material-ui/icons/Apps";
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom'; 
 import Logo from "../../Assets/Google.png";
 import Search from "../../Components/Search/Search";
 const Home = () => {
