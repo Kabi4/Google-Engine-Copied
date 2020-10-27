@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import React from "react";
-import { connect } from "react-redux";
+import { connect } from "react-redux"; 
 import useGoogleSearch from "../../Google/useGoogleSearch";
 import "./SearchResults.css";
 import Logo from "../../Assets/Google.png";
