@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import SearchIcon from "@material-ui/icons/Search";
 import MicIcon from "@material-ui/icons/Mic";
-import { Button, IconButton } from '@material-ui/core';
+import { Button, IconButton } from '@material-ui/core'; 
 import "./Search.css";
 import { withRouter } from 'react-router';
 import { connect } from "react-redux";
